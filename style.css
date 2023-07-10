@@ -1,0 +1,152 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.main-head{
+    background-color: #E554731A;
+    height: 850px;
+    width: 100%;
+    display: flex;
+}
+.flower-1{
+    width: 635px;
+    height: 800px;
+    display: flex;
+    margin-left: 550px;
+    margin-top: 50px;
+    justify-content: space-between;
+    
+    
+}
+.button-1{
+    position: absolute;
+    margin-top: 700px;
+    margin-left: 180px;
+    background-color:;
+    border-radius: 8px;
+    background: #E55473;
+    padding: 20px 40px;
+    font-size: 18px;
+    border: none;
+    color: white;
+}
+h2{
+    color: #272727;
+    font-size: 80px;
+    font-weight: 800;
+    display: block;
+}
+.title{
+    position: absolute;
+    margin-top: 150px;
+    margin-left: 180px;
+}
+.about{
+    margin-left: 180px;
+    margin-top: 490px;
+    font-size: 18px;
+}
+h3{
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+    margin-top: 150px; 
+    }
+.about-1{
+    margin-top: 30px;
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    
+}
+.blank-1{
+    width: 464px;
+    height: 538px;
+    flex-shrink: 0;
+    border-radius: 300px 300px 0px 0px;
+    background: #A7216226;
+    
+}
+
+.blank-2{
+    width: 464px;
+    height: 538px;
+    flex-shrink: 0;
+    border-radius: 300px 300px 0px 0px;
+    background: #0597A026;
+    
+}
+
+.blank-3{
+    width: 464px;
+    height: 538px;
+    flex-shrink: 0;
+    border-radius: 300px 300px 0px 0px;
+    background: #477D1126;
+    
+}
+.flower-flex{
+    display: flex;
+    flex-direction: row;
+    justify-content:center;
+    gap: 5px;
+    margin: auto;
+    width: 30px;
+    padding: 10px 0px;
+    margin-top: 40px;
+}
+.flex-flower-1{
+    margin-top: -11000px;
+    margin-bottom: 15px;
+    justify-content: center;  
+    margin-left: 70px;
+    
+}
+.fle{
+    display: flex;
+    color: #272727;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 35px;
+    text-decoration-line: underline;
+    justify-content: center;
+    gap: 300px;
+    margin-top: -20px;
+}
+.sec-3{
+    background-color: #E554731A;
+    height: 650px;
+    width: 100%;
+    display: flex;
+    margin-top: 120px;
+    position: relative;
+}
+.p-title{
+    position: absolute;
+    margin-top: 240px;
+    left: 435px;
+    text-align: center;
+    
+}
+.sec-3-title{
+    margin-left: 423px;
+}
+.discount{
+    color: #E55473;
+}
+.button-2{
+    position: absolute;
+    margin-top: 310px;
+    margin-left: 610px;
+    background-color:;
+    border-radius: 8px;
+    background: #E55473;
+    padding: 20px 40px;
+    font-size: 18px;
+    border: none;
+    color: white;
+}
