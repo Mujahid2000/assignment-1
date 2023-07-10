@@ -127,20 +127,21 @@ h3{
 }
 .p-title{
     position: absolute;
-    margin-top: 240px;
+    margin-top: 280px;
     left: 435px;
     text-align: center;
     
 }
 .sec-3-title{
     margin-left: 423px;
+    margin-top: 50px;
 }
 .discount{
     color: #E55473;
 }
 .button-2{
     position: absolute;
-    margin-top: 310px;
+    margin-top: 370px;
     margin-left: 610px;
     background-color:;
     border-radius: 8px;
@@ -149,4 +150,8 @@ h3{
     font-size: 18px;
     border: none;
     color: white;
+}
+.image-4{
+    margin-left: 330px;
+    margin-top: 100px;
 }
