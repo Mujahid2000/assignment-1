@@ -199,7 +199,7 @@ h3{
     height: 449px;
     flex-shrink: 0;
     background: #111010;
-    margin-top: 250px;
+    margin-top: 560px;
 
 }
 .footer-title{
@@ -232,4 +232,49 @@ h3{
     margin-left: 830px;
     font-size: 16px;
     font-weight: 400;
+}
+.uniq-1{
+    width: 800px;
+    height: 100px;
+    background-color: lemonchiffon;
+    position: absolute;
+    margin-left: 520px;
+    margin-top: 280px;
+    padding: 20px 90px;
+}
+
+.main-id-1{
+    position: absolute;
+    display: flex;
+    margin-left: 550px;
+    gap: 30px;
+    margin-top: 340px;
+
+}
+.uniq-ti{
+    font-size: 28px;
+}
+.lebel-flower{
+    font-size: 18px;
+    
+    margin-top: 50px;
+}
+.Choose{
+    display: flex;
+    margin-top: 10px;
+}
+.submit-1{
+    margin-top: 332px;
+    margin-left: 1250px;
+    position: absolute;
+    background-color: #E55473;
+    padding: 15px 31px;
+    border: none;
+    border-radius: 8px;
+}
+h1{
+    color:chocolate;
+}
+.submit-1:hover{
+    cursor: pointer;
 }
