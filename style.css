@@ -5,6 +5,7 @@
     margin: 0;
     font-family: 'Alkatra', cursive;
     font-family: 'Open Sans', sans-serif;
+}
 .main-head{
     background-color: #E554731A;
     height: 850px;
@@ -21,7 +22,7 @@
 }
 .button-1{
     position: absolute;
-    margin-top: 700px;
+    margin-top: 690px;
     margin-left: 180px;
     background-color:;
     border-radius: 8px;
@@ -44,8 +45,9 @@ h2{
 }
 .about{
     margin-left: 180px;
-    margin-top: 490px;
-    font-size: 18px;
+    margin-top: 520px;
+    font-size: 22px;
+    line-height: 30px;
 }
 h3{
     color: #272727;
@@ -131,6 +133,7 @@ h3{
     margin-top: 280px;
     left: 435px;
     text-align: center;
+    margin-left: -30px;
     
 }
 .sec-3-title{
@@ -143,7 +146,7 @@ h3{
 .button-2{
     position: absolute;
     margin-top: 370px;
-    margin-left: 610px;
+    margin-left: 640px;
     background-color:;
     border-radius: 8px;
     background: #E55473;
@@ -178,6 +181,7 @@ h3{
     background: #E55473;
     padding: 19px 31px;
     border: none;
+    font-size: 18px;
 }
 
 #email-input{
@@ -191,6 +195,7 @@ h3{
     height: 30px;
     margin-top: 395px;
     position: relative;
+    font-family: Lato;
 }
 
 .blank-footer-div{
@@ -212,7 +217,7 @@ h3{
     position: absolute;
     margin-top: 150px;
     color: white;
-    margin-left: 835px;
+    margin-left: 815px;
 
 }
 .footer-description{
@@ -220,7 +225,7 @@ h3{
     position: absolute;
     color: white;
     text-align: center;
-    margin-left: 730px;
+    margin-left: 640px;
 }
   
 .last-text{
@@ -228,7 +233,7 @@ h3{
     color: white;
     margin-top: 300px;
     color: rgba(255, 255, 255, 0.40);
-    margin-left: 790px;
+    margin-left: 795px;
     font-family: Lato;
     font-size: 16px;
     font-weight: 400;
