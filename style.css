@@ -193,7 +193,7 @@ h3{
 }
 
 .blank-footer-div{
-    width: 1922px;
+    width: 100%;
     height: 449px;
     flex-shrink: 0;
     background: #111010;
@@ -209,13 +209,13 @@ h3{
     font-size: 48px;
     font-weight: 800;
     position: absolute;
-    margin-top: 360px;
+    margin-top: 150px;
     color: white;
     margin-left: 835px;
 
 }
 .footer-description{
-    margin-top: 440px;
+    margin-top: 230px;
     position: absolute;
     color: white;
     text-align: center;
@@ -225,7 +225,7 @@ h3{
 .last-text{
     position: absolute;
     color: white;
-    margin-top: 510px;
+    margin-top: 300px;
     color: rgba(255, 255, 255, 0.40);
     margin-left: 790px;
     font-family: Lato;
