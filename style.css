@@ -155,3 +155,80 @@ h3{
     margin-left: 330px;
     margin-top: 100px;
 }
+.main-image{
+    display: flex;
+    margin-left: 240px;
+    gap: 26px;
+    margin-top: 45px;
+}
+
+.flower-squere{
+    position: absolute;
+    margin-top: 128px;
+    margin-left: 240px;
+    
+}
+.subscribe{
+    position: absolute;
+    margin-left: 1250px;
+    margin-top: 400px;
+    background-color: #E55473;
+    border-radius: 8px;
+    background: #E55473;
+    padding: 19px 31px;
+    border: none;
+}
+
+#email-input{
+    padding: 15px ;
+    background-color: #fff;
+    border-color: white;
+    border: white 1px solid ;
+    border-radius: 8px;
+    margin-left: 490px;
+    width: 700px;
+    height: 30px;
+    margin-top: 395px;
+    position: relative;
+}
+
+.blank-footer-div{
+    width: 1922px;
+    height: 449px;
+    flex-shrink: 0;
+    background: #111010;
+    margin-top: 250px;
+
+}
+.footer-title{
+    color: #E55473;
+    font-size: 48px;
+    font-weight: 800;
+}
+.Footer-Head{
+    font-size: 48px;
+    font-weight: 800;
+    position: absolute;
+    margin-top: 360px;
+    color: white;
+    margin-left: 835px;
+
+}
+.footer-description{
+    margin-top: 440px;
+    position: absolute;
+    color: white;
+    text-align: center;
+    margin-left: 730px;
+}
+  
+.last-text{
+    position: absolute;
+    color: white;
+    margin-top: 510px;
+    color: rgba(255, 255, 255, 0.40);
+    margin-left: 790px;
+    font-family: Lato;
+    font-size: 16px;
+    font-weight: 400;
+}
